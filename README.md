@@ -17,3 +17,8 @@ The project will use Java, Scanner for user input, BufferedReader for reading CS
 ## Future Plans
 
 In the future, I would like to add automatic stat updates, recent player performance analysis, and different fantasy scoring formats. I may also create an HTML/CSS interface to make the program easier to use.
+
+DO: Essential features for your MVP (loading CSV stats, comparing players, calculating trade values).
+SCHEDULE: Features to add later (live NFL stats, HTML/CSS interface).
+DELEGATE: Tools you'll use instead of building from scratch (BufferedReader, Scanner).
+DELETE: Features you won't include (mobile app, AI predictions).
